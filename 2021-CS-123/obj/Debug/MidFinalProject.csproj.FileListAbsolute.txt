@@ -1,0 +1,89 @@
+D:\J7\DBS Lab\mid\MidFinalProject\bin\Debug\MidFinalProject.exe.config
+D:\J7\DBS Lab\mid\MidFinalProject\bin\Debug\MidFinalProject.exe
+D:\J7\DBS Lab\mid\MidFinalProject\bin\Debug\MidFinalProject.pdb
+D:\J7\DBS Lab\mid\MidFinalProject\obj\Debug\MidFinalProject.csproj.AssemblyReference.cache
+D:\J7\DBS Lab\mid\MidFinalProject\obj\Debug\MidFinalProject.csproj.SuggestedBindingRedirects.cache
+D:\J7\DBS Lab\mid\MidFinalProject\obj\Debug\MidFinalProject.Properties.Resources.resources
+D:\J7\DBS Lab\mid\MidFinalProject\obj\Debug\MidFinalProject.csproj.GenerateResource.cache
+D:\J7\DBS Lab\mid\MidFinalProject\obj\Debug\MidFinalProject.csproj.CoreCompileInputs.cache
+D:\J7\DBS Lab\mid\MidFinalProject\obj\Debug\MidFinalProject.exe
+D:\J7\DBS Lab\mid\MidFinalProject\obj\Debug\MidFinalProject.pdb
+D:\J7\DBS Lab\mid\MidFinalProject\obj\Debug\MidFinalProject.Form1.resources
+D:\J7\DBS Lab\mid\MidFinalProject\obj\Debug\MidFinalProject.MainMenuForm.resources
+D:\J7\DBS Lab\mid\MidFinalProject\obj\Debug\MidFinalProject.ManageStudentsForm.resources
+D:\J7\DBS Lab\mid\MidFinalProject\obj\Debug\MidFinalProject.AddAStudent.resources
+D:\J7\DBS Lab\mid\2021-CS-123\bin\Debug\MidFinalProject.exe.config
+D:\J7\DBS Lab\mid\2021-CS-123\bin\Debug\MidFinalProject.exe
+D:\J7\DBS Lab\mid\2021-CS-123\bin\Debug\MidFinalProject.pdb
+D:\J7\DBS Lab\mid\2021-CS-123\obj\Debug\MidFinalProject.csproj.AssemblyReference.cache
+D:\J7\DBS Lab\mid\2021-CS-123\obj\Debug\MidFinalProject.csproj.SuggestedBindingRedirects.cache
+D:\J7\DBS Lab\mid\2021-CS-123\obj\Debug\MidFinalProject.MainMenuForm.resources
+D:\J7\DBS Lab\mid\2021-CS-123\obj\Debug\MidFinalProject.Form1.resources
+D:\J7\DBS Lab\mid\2021-CS-123\obj\Debug\MidFinalProject.ManageStudentsForm.resources
+D:\J7\DBS Lab\mid\2021-CS-123\obj\Debug\MidFinalProject.Properties.Resources.resources
+D:\J7\DBS Lab\mid\2021-CS-123\obj\Debug\MidFinalProject.UpdateAStudentMain.resources
+D:\J7\DBS Lab\mid\2021-CS-123\obj\Debug\MidFinalProject.csproj.GenerateResource.cache
+D:\J7\DBS Lab\mid\2021-CS-123\obj\Debug\MidFinalProject.csproj.CoreCompileInputs.cache
+D:\J7\DBS Lab\mid\2021-CS-123\obj\Debug\MidFinalProject.exe
+D:\J7\DBS Lab\mid\2021-CS-123\obj\Debug\MidFinalProject.pdb
+D:\J7\DBS Lab\mid\2021-CS-123\obj\Debug\MidFinalProject.ManageStudents.resources
+D:\J7\DBS Lab\mid\2021-CS-123\obj\Debug\MidFinalProject.ManageAdvisors.resources
+D:\J7\DBS Lab\mid\2021-CS-123\obj\Debug\MidFinalProject.ManageProjects.resources
+D:\J7\DBS Lab\mid\2021-CS-123\obj\Debug\MidFinalProject.ManageEvaluations.resources
+D:\J7\DBS Lab\mid\2021-CS-123\bin\Debug\PdfSharp.Charting.dll
+D:\J7\DBS Lab\mid\2021-CS-123\bin\Debug\PdfSharp.dll
+D:\J7\DBS Lab\mid\2021-CS-123\bin\Debug\System.Buffers.dll
+D:\J7\DBS Lab\mid\2021-CS-123\bin\Debug\System.Memory.dll
+D:\J7\DBS Lab\mid\2021-CS-123\bin\Debug\System.Numerics.Vectors.dll
+D:\J7\DBS Lab\mid\2021-CS-123\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\J7\DBS Lab\mid\2021-CS-123\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\J7\DBS Lab\mid\2021-CS-123\bin\Debug\PdfSharp.xml
+D:\J7\DBS Lab\mid\2021-CS-123\bin\Debug\PdfSharp.Charting.xml
+D:\J7\DBS Lab\mid\2021-CS-123\bin\Debug\System.Buffers.xml
+D:\J7\DBS Lab\mid\2021-CS-123\bin\Debug\System.Memory.xml
+D:\J7\DBS Lab\mid\2021-CS-123\bin\Debug\System.Numerics.Vectors.xml
+D:\J7\DBS Lab\mid\2021-CS-123\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\J7\DBS Lab\mid\2021-CS-123\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\J7\DBS Lab\mid\2021-CS-123\bin\Debug\de\PdfSharp.resources.dll
+D:\J7\DBS Lab\mid\2021-CS-123\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\J7\DBS Lab\mid\2021-CS-123\obj\Debug\MidFinalProject.csproj.CopyComplete
+D:\J7\DBS Lab\mid\2021-CS-123\bin\Debug\BouncyCastle.Crypto.dll
+D:\J7\DBS Lab\mid\2021-CS-123\bin\Debug\itextsharp.dll
+D:\J7\DBS Lab\mid\2021-CS-123\bin\Debug\itextsharp.xml
+D:\OLD Data\J7\DBS Lab\mid\2021-CS-123\bin\Debug\MidFinalProject.exe.config
+D:\OLD Data\J7\DBS Lab\mid\2021-CS-123\bin\Debug\MidFinalProject.exe
+D:\OLD Data\J7\DBS Lab\mid\2021-CS-123\bin\Debug\MidFinalProject.pdb
+D:\OLD Data\J7\DBS Lab\mid\2021-CS-123\bin\Debug\BouncyCastle.Crypto.dll
+D:\OLD Data\J7\DBS Lab\mid\2021-CS-123\bin\Debug\itextsharp.dll
+D:\OLD Data\J7\DBS Lab\mid\2021-CS-123\bin\Debug\PdfSharp.Charting.dll
+D:\OLD Data\J7\DBS Lab\mid\2021-CS-123\bin\Debug\PdfSharp.dll
+D:\OLD Data\J7\DBS Lab\mid\2021-CS-123\bin\Debug\System.Buffers.dll
+D:\OLD Data\J7\DBS Lab\mid\2021-CS-123\bin\Debug\System.Memory.dll
+D:\OLD Data\J7\DBS Lab\mid\2021-CS-123\bin\Debug\System.Numerics.Vectors.dll
+D:\OLD Data\J7\DBS Lab\mid\2021-CS-123\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\OLD Data\J7\DBS Lab\mid\2021-CS-123\bin\Debug\System.Text.Encoding.CodePages.dll
+D:\OLD Data\J7\DBS Lab\mid\2021-CS-123\bin\Debug\itextsharp.xml
+D:\OLD Data\J7\DBS Lab\mid\2021-CS-123\bin\Debug\PdfSharp.xml
+D:\OLD Data\J7\DBS Lab\mid\2021-CS-123\bin\Debug\PdfSharp.Charting.xml
+D:\OLD Data\J7\DBS Lab\mid\2021-CS-123\bin\Debug\System.Buffers.xml
+D:\OLD Data\J7\DBS Lab\mid\2021-CS-123\bin\Debug\System.Memory.xml
+D:\OLD Data\J7\DBS Lab\mid\2021-CS-123\bin\Debug\System.Numerics.Vectors.xml
+D:\OLD Data\J7\DBS Lab\mid\2021-CS-123\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\OLD Data\J7\DBS Lab\mid\2021-CS-123\bin\Debug\System.Text.Encoding.CodePages.xml
+D:\OLD Data\J7\DBS Lab\mid\2021-CS-123\bin\Debug\de\PdfSharp.resources.dll
+D:\OLD Data\J7\DBS Lab\mid\2021-CS-123\bin\Debug\de\PdfSharp.Charting.resources.dll
+D:\OLD Data\J7\DBS Lab\mid\2021-CS-123\obj\Debug\MidFinalProject.csproj.AssemblyReference.cache
+D:\OLD Data\J7\DBS Lab\mid\2021-CS-123\obj\Debug\MidFinalProject.MainMenuForm.resources
+D:\OLD Data\J7\DBS Lab\mid\2021-CS-123\obj\Debug\MidFinalProject.Form1.resources
+D:\OLD Data\J7\DBS Lab\mid\2021-CS-123\obj\Debug\MidFinalProject.ManageAdvisors.resources
+D:\OLD Data\J7\DBS Lab\mid\2021-CS-123\obj\Debug\MidFinalProject.ManageEvaluations.resources
+D:\OLD Data\J7\DBS Lab\mid\2021-CS-123\obj\Debug\MidFinalProject.ManageProjects.resources
+D:\OLD Data\J7\DBS Lab\mid\2021-CS-123\obj\Debug\MidFinalProject.ManageStudents.resources
+D:\OLD Data\J7\DBS Lab\mid\2021-CS-123\obj\Debug\MidFinalProject.ManageStudentsForm.resources
+D:\OLD Data\J7\DBS Lab\mid\2021-CS-123\obj\Debug\MidFinalProject.Properties.Resources.resources
+D:\OLD Data\J7\DBS Lab\mid\2021-CS-123\obj\Debug\MidFinalProject.UpdateAStudentMain.resources
+D:\OLD Data\J7\DBS Lab\mid\2021-CS-123\obj\Debug\MidFinalProject.csproj.GenerateResource.cache
+D:\OLD Data\J7\DBS Lab\mid\2021-CS-123\obj\Debug\MidFinalProject.csproj.CoreCompileInputs.cache
+D:\OLD Data\J7\DBS Lab\mid\2021-CS-123\obj\Debug\MidFinalProject.csproj.CopyComplete
+D:\OLD Data\J7\DBS Lab\mid\2021-CS-123\obj\Debug\MidFinalProject.exe
+D:\OLD Data\J7\DBS Lab\mid\2021-CS-123\obj\Debug\MidFinalProject.pdb
