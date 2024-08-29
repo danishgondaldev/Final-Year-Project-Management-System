@@ -1,5 +1,7 @@
 # Final Year Project Management System
 
+This repository contains work originally developed in March-April 2023. The commits are dated according to the original work timeline, but the repository was created on 29th August, 2024 for organizational and archival purposes.
+
 ## Overview
 
 This project is a **Final Year Project Management System** developed using Windows Forms, C#, and SQL Server Management Studio. It was created as part of the course **Database Systems**. The system is designed to streamline the management of student projects and related activities within an academic environment.
